@@ -9,13 +9,14 @@ const Intro = () => {
           <h2 className="i-intro">Hello, My name is</h2>
           <h1 className="i-name">Akash AnilKumar</h1>
           <div className="i-title">
-           <h1>I'm a passionate</h1> 
+          <p className="p-title">I'm a passionate</p> 
             <div className="i-title-wrapper">
               <div className="i-title-item">Software Enginner</div>
               <div className="i-title-item">Web Developer</div>
               <div className="i-title-item">Programmer</div>
             </div>
           </div>
+          <hr className="break1"/>
           <p className="i-desc">
           A resourceful Software engineer 
           proficient in Reactjs, Nodejs, Golang, Python and SQL. 
